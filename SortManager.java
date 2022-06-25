@@ -32,7 +32,7 @@ public class SortManager {
 	
 	public boolean sorting(String[] names, String alphabet) {
 		
-		//41. satırda açıklaması ve altında işlevi gösterildi.
+		//52. satırda açıklaması ve altında işlevi gösterildi.
 		int loopInWord;
 		
 		//kendisi ve bir sonraki kelimeyi karşılaştırmak için for döngüsü
